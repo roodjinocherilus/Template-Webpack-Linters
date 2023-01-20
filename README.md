@@ -1,2 +1,2 @@
-# Newproject-with-linters
-This is a template Repository for all project with linters installed
+# Template-Webpack-Linters
+This is a template Repository for webpack project with Linters pre-installed
